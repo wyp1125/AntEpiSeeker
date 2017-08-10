@@ -1,3 +1,6 @@
+Full publication: https://bmcresnotes.biomedcentral.com/articles/10.1186/1756-0500-3-117
+
+
 Installation and execution of AntEpiSeeker Software
 
 
@@ -48,5 +51,5 @@ file specified by the user in the parameter file reports the detected epistatic 
 (after the Bonferroni correction).
 
 5) Support
-Questions and comments should be directed to Yupeng Wang (wyp1125@uga.edu) or Dr. Romdhane Rekaya (rrekaya@uga.edu).
+Questions and comments should be directed to Yupeng Wang (wyp1125@gmail.com).
 
